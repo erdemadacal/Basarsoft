@@ -1,2 +1,1 @@
-Description
-The user selects and confirms two points on the map, the app queries the server and adds future point data from the server to the map.
+The user selects two points on the map. An MBR(Minimum Bounding Rectangle) is created using the selected two points, and sents as a string formatted to the WebSocket server. For each MBR message that server receives, it sends the coordinate data of provinces remaining within the requested area.
