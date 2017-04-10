@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basarsoft</string>
+    <string name="title_activity_maps">Basarsoft</string>
+    <string name="tap_instructions">Please choose two points.</string>
+    <string name="reset">RESET</string>
+    <string name="clear">SEND TO SERVER</string>
+    <string name="map_not_ready">Wait, Map is not ready!</string>
+    <string name="only2points">You cannot choose more than two points!</string>
+    <string name="notYet">You cannot connect to server until choose two point!</string>
+
+</resources>
